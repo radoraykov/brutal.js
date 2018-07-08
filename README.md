@@ -40,7 +40,7 @@ Basic usage:
 
 ### Differences to notice
 
-- Event listeners are named by event names directly. No `on-' prefix. So use `click` not `onlclick`
+- Event listeners are named by event names directly. No `on-` prefix. So use `click` not `onlclick`
 - There is never any need to quote an attribute, brutal does it for you, so 
   `title=${title}` never `title="${title}"`
 - every bit of HTML is tagged with an R and written with backticks. Technically, this is an ES6 template literal and template tag function.
