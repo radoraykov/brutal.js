@@ -32,6 +32,12 @@ function ButtonWidget({name}) {
 }
 ```
 
+Basic usage:
+
+```JavaScript
+  render(App(), document.getElementById('root'));
+```
+
 ### Differences to notice
 
 - Event listeners are named by event names directly. No `on-' prefix. So use `click` not `onlclick`
