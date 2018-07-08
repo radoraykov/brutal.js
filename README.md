@@ -53,3 +53,11 @@ minimal opinionation (everything is just HTML elements and event handlers), leav
 - Server side rendering / client-server symmetry
 - Encourage / macro-ise targeted forms and named iframes ( sooo brutal )
 - Encourage / bundle brutalist CSS sheets
+
+## conclusion
+
+If you know HTML and JS, you know brutal.js. Give it a spin, open an issue, make a PR, and let me know how you're using it, and where you think it should go.
+
+## projects using brutal.js
+
+- [TodoMVC in brutal.js](https://dosyago-coder-0.github.io/rvanillatodo/)
